@@ -1,0 +1,36 @@
+.flex-Container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.item {
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.login-btn {
+    width: 100%;
+}
+
+.dashboard {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.btn-div {
+    width: 100%;
+    border-bottom: 2px solid gray;
+}
+
+/* /////////////////////Show Product////////////////////////////// */
+
+td {
+    padding: 10px 20px;
+    /* font-weight: bold; */
+}
